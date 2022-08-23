@@ -9312,15 +9312,15 @@ li#mgt-menu-item-2832 span {
     </div>
 </div>
 
-<script src="https://mister.loans/assets/highcharts.js"></script>
-<script src="https://mister.loans/assets/exporting.js"></script>
-<script src="https://mister.loans/assets/export-data.js"></script>
-<script src="https://mister.loans/assets/script.js"></script>
+<script src="highcharts.js"></script>
+<script src="exporting.js"></script>
+<script src="export-data.js"></script>
+<script src="script.js"></script>
 
 
-<script src="https://mister.loans/s/loaded/59902810f3fb.js"></script>
-<script src="https://mister.loans/s/loaded/166d88165621.js"></script>
-<script src="https://mister.loans/s/loaded/ffd94714fdf6.js"></script>
+<script src="jquery5.js"></script>
+<script src="load.js"></script>
+<script src="bootjs.js"></script>
 <script>
 
     $('#tour-popup').show();
